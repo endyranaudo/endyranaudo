@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am [Endy](https://www.endyranaudo.com),
-a software developer born in 🇮🇹, \
+a software engineer born in 🇮🇹, \
 currently living in 🇫🇷 \
 and working with people from everywhere 🌍
 
