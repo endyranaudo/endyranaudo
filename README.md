@@ -18,6 +18,7 @@ and working with people from everywhere 🌍
 ## ☁ ️Other tools
 
 <p align="left">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
